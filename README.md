@@ -20,7 +20,7 @@ Our project **EMULATE** delivers tools to **measure**, **analyze**, and **optimi
 
 
 
-The [EMULATE](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php?loc=en) project is part of the Important Project of Common European Interest – Next Generation Cloud Infrastructures and Services (IPCEI-CIS) under the name of [8ra](https://www.8ra.com/) ("ORA" = continuum) Initiative. With more than 120 partners from 12 EU Member States, the 8ra Initiative aims to build Europe’s Next Generation Cloud Infrastructure and Services towards digital sovereignty, establishing a unified “cloud-edge continuum” that operates independently of any single provider.
+The [EMULATE](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php?loc=en) project is part of the Important Project of Common European Interest – Next Generation Cloud Infrastructures and Services (IPCEI-CIS). This jointly effort is brought together under the name of [8ra](https://www.8ra.com/) ("ORA" = continuum) Initiative. With more than 120 partners from 12 EU Member States, the 8ra Initiative aims to build Europe’s Next Generation Cloud Infrastructure and Services towards digital sovereignty, establishing a unified “cloud-edge continuum” that operates independently of any single provider.
 
 
 ---
