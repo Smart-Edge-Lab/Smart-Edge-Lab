@@ -9,7 +9,7 @@ The Smart Edge Lab is a research group at Fachhochschule Dortmund focused on gro
 
 ### 🔍 EMULATE  Project in the Smart Edge Lab  
 
-Our project **EMULATE** delivers tools to **measure**, **analyze**, and **optimize** performance in the European cloud-edge continuum. Whether you’re testing autonomous driving, augmented reality, smart-grid control, or UAV orchestration, EMULATE provides:
+Our project **EMULATE** delivers tools to **measure**, **analyze**, and **optimize** performance in the European cloud-edge continuum. EMULATE provides:
 
 - **Emulation Platform**  
   Create a virtual twin of any physical environment—networks, infrastructures, apps, and events—to experiment with deployment scenarios for real-time applications.
