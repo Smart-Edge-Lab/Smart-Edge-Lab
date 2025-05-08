@@ -11,12 +11,11 @@ The Smart Edge Lab is a research group at Fachhochschule Dortmund focused on gro
 
 Our project **EMULATE** delivers tools to **measure**, **analyze**, and **optimize** performance in the European cloud-edge continuum. EMULATE provides:
 
-- **Emulation Platform**  
-  Create a virtual twin of any physical environment—networks, infrastructures, apps, and events—to experiment with deployment scenarios for real-time applications.
-
 - **A Service Quality Manager (SeQaM)**  
-  Gather in-depth QoS metrics from both physical and emulated setups, helping you assess and refine end-to-end service quality management in edge computing.
-
+  The Service Quality Manager (SeQaM) is a tool developed to facilitate end-to-end service quality management for edge computing.
+  
+- **Emulation Platform**  
+  Create a virtual twin of the physical environment—networks, infrastructures, apps, and events—to experiment with deployment scenarios for real-time applications.
 
 
 
