@@ -25,9 +25,10 @@ The [EMULATE](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate
 
 ---
 
-#### 🚀 Key Features  
+#### 🚀 Key Features of EMULATE
+
+- **Service Quality Management**: Capture latency, energy, throughput, and reliability metrics tailored to time-critical apps and use them in a tight feedback loop to continuously improve service quality.
 - **High-Fidelity Emulation**: Mirror complex physical environments for safe, repeatable testing.  
-- **QoS Diagnostics**: Capture latency, throughput, and reliability metrics tailored to time-critical apps.  
 - **Multi-Provider Continuum**: Design and validate solutions across diverse cloud and edge providers.
 
 ---
