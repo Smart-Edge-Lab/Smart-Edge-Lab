@@ -36,7 +36,8 @@ The [EMULATE](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate
 #### 🤝 Get Involved  
 We welcome contributions from code and documentation to new ideas about edge computing. Check out our [Contribution Guidelines](https://github.com/Smart-Edge-Lab/SeQaM/blob/main/Contributing.md) and browse open issues to get started.
 
-
+### Acknowledgment
+The EMULATE project is part of the IPCEI-CIS (Important Project of Common European Interest - Next Generation Cloud Infrastructure), funded by the European Union and the German Federal Ministry of Economics and Climate Action under research grant 13IPC012.
 
 
 ---
