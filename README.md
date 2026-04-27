@@ -55,5 +55,5 @@ Thank you for stopping by—let’s shape the future of edge computing together!
 
 
 
-<img width="1424" height="804" alt="logo_ministry" src="https://github.com/user-attachments/assets/e0d4779b-49d1-4059-8b23-c05071ffa72b" />
+<img width="712" height="402" alt="logo_ministry" src="https://github.com/user-attachments/assets/e0d4779b-49d1-4059-8b23-c05071ffa72b" />
 
